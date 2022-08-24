@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801430636082",
+    "project_id": "chat-app-flutter-nik",
+    "storage_bucket": "chat-app-flutter-nik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801430636082:android:542061877b37fbdad59e2b",
+        "android_client_info": {
+          "package_name": "com.dazai.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801430636082-3pqolqph538porvc4imvr0h7m15n7k97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BgJtFvh_aSIuDk3Q5YFuLdWLgSqgyVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801430636082-3pqolqph538porvc4imvr0h7m15n7k97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
